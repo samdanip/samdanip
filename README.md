@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samdanip
-- 👀 I’m interested in Reactjs
+- 👀 I’m interested in Javascript Programming
 - 🌱 I’m currently learning Reactjs, Redux
 
 <!---
