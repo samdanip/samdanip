@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samdanip
-- 👀 I’m interested in Javascript Programming
-- 🌱 I’m currently learning Reactjs, Redux
+- 👋  Hi, I’m @samdanip
+- 👀  I’m interested in Javascript Programming
+- 🌱  I’m currently learning Reactjs, Redux
 
 <!---
 samdanip/samdanip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
