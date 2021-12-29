@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @samdanip
 - 👀  I’m interested in Javascript Programming
-- 🌱  I’m currently learning React JS and React Native
+- 🌱  I’m currently learning React JS, React Native and MERN Stack
 
 <!---
 samdanip/samdanip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
